@@ -3,7 +3,10 @@ It is a note-taking application that can be used to take short-term notes and or
 It has features to add new notes, delete previously added notes and update notes.  
 Notes are stored in localStorage.
 
-#Installation
+![Markdown Notes](https://github.com/alpyurtseven/markdown-notes-react/image.gif?raw=true)
+
+
+# Installation
 In the project directory, you can run:
 
 ### `npm install`
@@ -24,14 +27,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#Dependencies  
+# Dependencies  
 1- https://www.npmjs.com/package/react-mde  
 2- https://www.npmjs.com/package/react-split  
 3- https://www.npmjs.com/package/showdown  
 4- https://www.npmjs.com/package/bootstrap  
 5- https://www.npmjs.com/package/fontawesome    
 
-https://ezgif.com/maker/ezgif-3-03652840-gif
 
 
 
