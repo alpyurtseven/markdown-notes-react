@@ -1,0 +1,44 @@
+.sidebar{
+    color: #313131;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 4px;
+    max-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.sidebar .header{
+    display: flex;
+    margin-left: 5px;
+    margin-right: 20px;
+    flex-direction: row;   
+    justify-content: space-between;
+}
+
+.notes li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+  box-shadow: 2px 3px;
+  padding: 10px 10px 20px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.notes li:hover{
+    color: white;
+    background-color: #313131;
+}
+
+.notes li.selected{
+    color: white;
+    background-color: #313131;
+}
+
+.note li.button{
+    float: left;
+}
