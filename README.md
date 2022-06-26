@@ -3,7 +3,7 @@ It is a note-taking application that can be used to take short-term notes and or
 It has features to add new notes, delete previously added notes and update notes.  
 Notes are stored in localStorage.
 
-![Markdown Notes](https://github.com/alpyurtseven/markdown-notes-react/image.gif?raw=true)
+![Markdown Notes](https://github.com/alpyurtseven/markdown-notes-react/blob/master/public/ezgif.com-gif-maker.gif)
 
 
 # Installation
